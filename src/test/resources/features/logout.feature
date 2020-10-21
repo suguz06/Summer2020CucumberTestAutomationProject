@@ -1,5 +1,6 @@
 Feature: As a user, I should be able to log out
 
+  @s1
   Scenario: log out as a sales manager
     Given user on the home page
     When user logs out
